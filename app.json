@@ -1,10 +1,10 @@
 {
-  "name": "whatsapp-bot (HANSAMAL-MD)",
+  "name": "whatsapp-bot (DARK-RIO-MD)",
   "description": " Whatsapp bot.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/cobrs11/HANSAMAL-MD",
+  "repository": "https://github.com/vishwamihi/DARK-RIO-MD",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
